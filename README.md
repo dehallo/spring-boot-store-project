@@ -2,7 +2,7 @@
 
 This repository contains the starter project for Part 2 of my Spring Boot course:
 
-https://codewithmosh.com/p/spring-boot-advanced
+[https://codewithmosh.com/p/spring-boot-building-apis](https://codewithmosh.com/p/spring-boot-building-apis)
 
 ## About this Repository 
 
@@ -16,5 +16,5 @@ To get started, clone the repository to your local machine:
 git clone https://github.com/mosh-hamedani/spring-api-starter
 
 cd spring-api
-```# spring-boot-store-project
-# spring-boot-store-project
+```
+# spring-boot-store-project2
